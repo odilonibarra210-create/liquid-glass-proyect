@@ -1,0 +1,7 @@
+{
+  "name": "Liquid Glass",
+  "description": "Recreación interactiva del cristal líquido de iOS con física de fluidos, refracción de lentes, metaballs, Dynamic Island y centro de control translúcido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
